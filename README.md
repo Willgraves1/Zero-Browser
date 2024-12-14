@@ -1,4 +1,4 @@
-# Offline-First Browser Concept
+# Offline-First Browser Concept, Zero (internet) Browser
 
 ## Overview
 This is a concept for a **lightweight, cross-platform browser** that functions both **offline** and **online**. The browser allows users to access public websites **without permanently storing them locally**. It dynamically caches lightweight versions of websites for offline access while streaming live content when the internet is available.
